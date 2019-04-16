@@ -1,2 +1,10 @@
 # Sistema-de-lembretes
-Sistema de lembretes feito em PHP
+Pequeno Sistema de lembretes feito em PHP
+Ultilizando:
+  xamp;
+  materialize;
+  apache;
+  phpmyadmin;
+  html;
+  css;
+  javaScript.
